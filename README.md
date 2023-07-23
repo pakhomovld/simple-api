@@ -6,6 +6,9 @@
 
 
 ```shell
+$ cd pied-piper
+```
+```shell
 $ docker-compose up
 ```
 
