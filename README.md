@@ -9,5 +9,5 @@
 $ docker-compose up
 ```
 
-### [Swagger](http://0.0.0.0:8080/docs)
-### [Redoc](http://0.0.0.0:8080/redoc)
+### [Swagger](http://0.0.0.0:8888/docs)
+### [Redoc](http://0.0.0.0:8888/redoc)
