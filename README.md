@@ -6,10 +6,7 @@
 
 
 ```shell
-$ docker build -t pp
-```
-```shell
-$ docker run -p 8080:80 pp
+$ docker-compose up
 ```
 
 ### [Swagger](http://0.0.0.0:8080/docs)
