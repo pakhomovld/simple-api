@@ -1,4 +1,4 @@
-# pied-piper
+# Simple API
 
 ## Simple API on FastAPI
 
